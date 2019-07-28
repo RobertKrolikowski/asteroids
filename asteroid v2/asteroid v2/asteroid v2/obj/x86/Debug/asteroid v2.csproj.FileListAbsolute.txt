@@ -1,0 +1,12 @@
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\bin\x86\Debug\asteroid v2.exe
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\bin\x86\Debug\asteroid v2.pdb
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\obj\x86\Debug\asteroid v2.csprojResolveAssemblyReference.cache
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\obj\x86\Debug\asteroid v2.exe
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\obj\x86\Debug\asteroid v2.pdb
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\bin\x86\Debug\Content\SpriteFont2.xnb
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\bin\x86\Debug\asteroid v2.exe.manifest
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\bin\x86\Debug\asteroid v2.application
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\obj\x86\Debug\asteroid v2.exe.manifest
+D:\Programowanie\C#\XNA\asteroid v2\asteroid v2\asteroid v2\obj\x86\Debug\asteroid v2.application
